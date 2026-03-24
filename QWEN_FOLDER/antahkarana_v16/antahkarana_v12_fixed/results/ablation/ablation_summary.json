@@ -1,0 +1,292 @@
+{
+  "Full Antahkarana": {
+    "f1": {
+      "mean": 0.6377,
+      "std": 0.4074,
+      "ci_low": 0.5619,
+      "ci_high": 0.7159,
+      "n": 100
+    },
+    "joint_f1": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "sf_f1": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "em": {
+      "mean": 0.47,
+      "std": 0.4991,
+      "ci_low": 0.38,
+      "ci_high": 0.57,
+      "n": 100
+    },
+    "joint_em": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "sf_em": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "confidence": {
+      "mean": 0.5,
+      "std": 0.0,
+      "ci_low": 0.5,
+      "ci_high": 0.5,
+      "n": 100
+    },
+    "latency": {
+      "mean": 0.3844,
+      "std": 0.0,
+      "ci_low": 0.3844,
+      "ci_high": 0.3844,
+      "n": 100
+    }
+  },
+  "w/o Routing": {
+    "f1": {
+      "mean": 0.3002,
+      "std": 0.314,
+      "ci_low": 0.239,
+      "ci_high": 0.3631,
+      "n": 100
+    },
+    "joint_f1": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "sf_f1": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "em": {
+      "mean": 0.12,
+      "std": 0.325,
+      "ci_low": 0.06,
+      "ci_high": 0.19,
+      "n": 100
+    },
+    "joint_em": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "sf_em": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "confidence": {
+      "mean": 0.5,
+      "std": 0.0,
+      "ci_low": 0.5,
+      "ci_high": 0.5,
+      "n": 100
+    },
+    "latency": {
+      "mean": 0.9524,
+      "std": 0.0,
+      "ci_low": 0.9524,
+      "ci_high": 0.9524,
+      "n": 100
+    }
+  },
+  "w/o Pramana": {
+    "f1": {
+      "mean": 0.6377,
+      "std": 0.4074,
+      "ci_low": 0.5619,
+      "ci_high": 0.7159,
+      "n": 100
+    },
+    "joint_f1": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "sf_f1": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "em": {
+      "mean": 0.47,
+      "std": 0.4991,
+      "ci_low": 0.38,
+      "ci_high": 0.57,
+      "n": 100
+    },
+    "joint_em": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "sf_em": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "confidence": {
+      "mean": 0.5,
+      "std": 0.0,
+      "ci_low": 0.5,
+      "ci_high": 0.5,
+      "n": 100
+    },
+    "latency": {
+      "mean": 0.3828,
+      "std": 0.0,
+      "ci_low": 0.3828,
+      "ci_high": 0.3828,
+      "n": 100
+    }
+  },
+  "w/o Samsaya": {
+    "f1": {
+      "mean": 0.6377,
+      "std": 0.4074,
+      "ci_low": 0.5619,
+      "ci_high": 0.7159,
+      "n": 100
+    },
+    "joint_f1": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "sf_f1": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "em": {
+      "mean": 0.47,
+      "std": 0.4991,
+      "ci_low": 0.38,
+      "ci_high": 0.57,
+      "n": 100
+    },
+    "joint_em": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "sf_em": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "confidence": {
+      "mean": 0.5,
+      "std": 0.0,
+      "ci_low": 0.5,
+      "ci_high": 0.5,
+      "n": 100
+    },
+    "latency": {
+      "mean": 0.3815,
+      "std": 0.0,
+      "ci_low": 0.3815,
+      "ci_high": 0.3815,
+      "n": 100
+    }
+  },
+  "w/o Evidence": {
+    "f1": {
+      "mean": 0.3831,
+      "std": 0.4423,
+      "ci_low": 0.3027,
+      "ci_high": 0.4688,
+      "n": 100
+    },
+    "joint_f1": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "sf_f1": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "em": {
+      "mean": 0.27,
+      "std": 0.444,
+      "ci_low": 0.19,
+      "ci_high": 0.36,
+      "n": 100
+    },
+    "joint_em": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "sf_em": {
+      "mean": 0.0,
+      "std": 0.0,
+      "ci_low": 0.0,
+      "ci_high": 0.0,
+      "n": 100
+    },
+    "confidence": {
+      "mean": 0.5,
+      "std": 0.0,
+      "ci_low": 0.5,
+      "ci_high": 0.5,
+      "n": 100
+    },
+    "latency": {
+      "mean": 0.3989,
+      "std": 0.0,
+      "ci_low": 0.3989,
+      "ci_high": 0.3989,
+      "n": 100
+    }
+  }
+}

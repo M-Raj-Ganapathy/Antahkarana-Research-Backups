@@ -1,0 +1,5 @@
+2026-03-23 12:29:13,973 [INFO] main — ▶▶▶ ANTAHKARANA v11 — IEEE EVALUATION PIPELINE STARTED ◀◀◀
+2026-03-23 12:29:14,903 [INFO] main — ======================================================================
+2026-03-23 12:29:14,903 [INFO] main — STEP 1: Initialising vLLM engine
+2026-03-23 12:29:14,903 [INFO] main — ======================================================================
+2026-03-23 12:29:14,903 [INFO] vllm_engine — Initialising vLLM engine (first call)…

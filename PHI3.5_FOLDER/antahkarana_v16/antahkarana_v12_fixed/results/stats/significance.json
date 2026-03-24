@@ -1,0 +1,172 @@
+{
+  "hotpotqa": {
+    "direct": {
+      "antahkarana_mean": 0.5277,
+      "baseline_mean": 0.5161,
+      "improvement_pct": 2.25,
+      "t_stat": 0.5482,
+      "p_value": 0.583828,
+      "significance": "ns"
+    },
+    "cot": {
+      "antahkarana_mean": 0.5277,
+      "baseline_mean": 0.539,
+      "improvement_pct": -2.1,
+      "t_stat": -0.5088,
+      "p_value": 0.611099,
+      "significance": "ns"
+    },
+    "self_consistency": {
+      "antahkarana_mean": 0.5277,
+      "baseline_mean": 0.569,
+      "improvement_pct": -7.26,
+      "t_stat": -1.8573,
+      "p_value": 0.063854,
+      "significance": "ns"
+    },
+    "tot": {
+      "antahkarana_mean": 0.5277,
+      "baseline_mean": 0.1919,
+      "improvement_pct": 174.94,
+      "t_stat": 17.3319,
+      "p_value": 0.0,
+      "significance": "***"
+    }
+  },
+  "mmlu": {
+    "direct": {
+      "antahkarana_mean": 0.608,
+      "baseline_mean": 0.574,
+      "improvement_pct": 5.92,
+      "t_stat": 1.4986,
+      "p_value": 0.134602,
+      "significance": "ns"
+    },
+    "cot": {
+      "antahkarana_mean": 0.608,
+      "baseline_mean": 0.608,
+      "improvement_pct": 0.0,
+      "t_stat": 0.0,
+      "p_value": 1.0,
+      "significance": "ns"
+    },
+    "self_consistency": {
+      "antahkarana_mean": 0.608,
+      "baseline_mean": 0.662,
+      "improvement_pct": -8.16,
+      "t_stat": -2.4466,
+      "p_value": 0.014764,
+      "significance": "*"
+    },
+    "tot": {
+      "antahkarana_mean": 0.608,
+      "baseline_mean": 0.2,
+      "improvement_pct": 204.0,
+      "t_stat": 16.2767,
+      "p_value": 0.0,
+      "significance": "***"
+    }
+  },
+  "truthfulqa": {
+    "direct": {
+      "antahkarana_mean": 0.2522,
+      "baseline_mean": 0.1892,
+      "improvement_pct": 33.3,
+      "t_stat": 5.2402,
+      "p_value": 0.0,
+      "significance": "***"
+    },
+    "cot": {
+      "antahkarana_mean": 0.2522,
+      "baseline_mean": 0.261,
+      "improvement_pct": -3.4,
+      "t_stat": -0.7523,
+      "p_value": 0.452201,
+      "significance": "ns"
+    },
+    "self_consistency": {
+      "antahkarana_mean": 0.2522,
+      "baseline_mean": 0.256,
+      "improvement_pct": -1.49,
+      "t_stat": -0.3199,
+      "p_value": 0.749165,
+      "significance": "ns"
+    },
+    "tot": {
+      "antahkarana_mean": 0.2522,
+      "baseline_mean": 0.2409,
+      "improvement_pct": 4.69,
+      "t_stat": 1.3617,
+      "p_value": 0.173905,
+      "significance": "ns"
+    }
+  },
+  "fever": {
+    "direct": {
+      "antahkarana_mean": 0.364,
+      "baseline_mean": 0.612,
+      "improvement_pct": -40.52,
+      "t_stat": -8.9111,
+      "p_value": 0.0,
+      "significance": "***"
+    },
+    "cot": {
+      "antahkarana_mean": 0.364,
+      "baseline_mean": 0.02,
+      "improvement_pct": 1720.0,
+      "t_stat": 16.0348,
+      "p_value": 0.0,
+      "significance": "***"
+    },
+    "self_consistency": {
+      "antahkarana_mean": 0.364,
+      "baseline_mean": 0.042,
+      "improvement_pct": 766.67,
+      "t_stat": 15.2553,
+      "p_value": 0.0,
+      "significance": "***"
+    },
+    "tot": {
+      "antahkarana_mean": 0.364,
+      "baseline_mean": 0.0,
+      "improvement_pct": 0.0,
+      "t_stat": 16.8994,
+      "p_value": 0.0,
+      "significance": "***"
+    }
+  },
+  "svamp": {
+    "direct": {
+      "antahkarana_mean": 0.92,
+      "baseline_mean": 0.668,
+      "improvement_pct": 37.72,
+      "t_stat": 12.0983,
+      "p_value": 0.0,
+      "significance": "***"
+    },
+    "cot": {
+      "antahkarana_mean": 0.92,
+      "baseline_mean": 0.872,
+      "improvement_pct": 5.5,
+      "t_stat": 3.5029,
+      "p_value": 0.000502,
+      "significance": "***"
+    },
+    "self_consistency": {
+      "antahkarana_mean": 0.92,
+      "baseline_mean": 0.9,
+      "improvement_pct": 2.22,
+      "t_stat": 1.7183,
+      "p_value": 0.086356,
+      "significance": "ns"
+    },
+    "tot": {
+      "antahkarana_mean": 0.92,
+      "baseline_mean": 0.844,
+      "improvement_pct": 9.0,
+      "t_stat": 5.3099,
+      "p_value": 0.0,
+      "significance": "***"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+config,em_mean,f1_mean,sf_em,sf_f1
+Full Antahkarana,0.47,0.6377,0.0,0.0
+w/o Routing,0.12,0.3002,0.0,0.0
+w/o Pramana,0.47,0.6377,0.0,0.0
+w/o Samsaya,0.47,0.6377,0.0,0.0
+w/o Evidence,0.27,0.3831,0.0,0.0

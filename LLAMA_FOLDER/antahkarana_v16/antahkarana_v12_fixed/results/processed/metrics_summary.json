@@ -1,0 +1,1352 @@
+{
+  "hotpotqa": {
+    "direct": {
+      "joint_em": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "latency": {
+        "mean": 0.3547,
+        "std": 0.0,
+        "ci_low": 0.3547,
+        "ci_high": 0.3547,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "joint_f1": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.6213,
+        "std": 0.4236,
+        "ci_low": 0.5871,
+        "ci_high": 0.6631,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.466,
+        "std": 0.4988,
+        "ci_low": 0.424,
+        "ci_high": 0.51,
+        "n": 500
+      },
+      "sf_f1": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "sf_em": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.3547
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.3547
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.3547
+      },
+      "throughput_throughput_sps": {
+        "mean": 2.82
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "cot": {
+      "joint_em": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "latency": {
+        "mean": 1.4728,
+        "std": 0.0,
+        "ci_low": 1.4728,
+        "ci_high": 1.4728,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "joint_f1": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.6139,
+        "std": 0.4386,
+        "ci_low": 0.5768,
+        "ci_high": 0.6532,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.488,
+        "std": 0.4999,
+        "ci_low": 0.45,
+        "ci_high": 0.534,
+        "n": 500
+      },
+      "sf_f1": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "sf_em": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 1.4728
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 1.4728
+      },
+      "throughput_p95_latency_s": {
+        "mean": 1.4728
+      },
+      "throughput_throughput_sps": {
+        "mean": 0.68
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "self_consistency": {
+      "joint_em": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "latency": {
+        "mean": 2.4542,
+        "std": 0.0,
+        "ci_low": 2.4542,
+        "ci_high": 2.4542,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "joint_f1": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.6324,
+        "std": 0.4269,
+        "ci_low": 0.5952,
+        "ci_high": 0.6701,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.496,
+        "std": 0.5,
+        "ci_low": 0.456,
+        "ci_high": 0.5421,
+        "n": 500
+      },
+      "sf_f1": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "sf_em": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 2.4542
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 2.4542
+      },
+      "throughput_p95_latency_s": {
+        "mean": 2.4542
+      },
+      "throughput_throughput_sps": {
+        "mean": 0.41
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "tot": {
+      "joint_em": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "latency": {
+        "mean": 1.6188,
+        "std": 0.0,
+        "ci_low": 1.6188,
+        "ci_high": 1.6188,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "joint_f1": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.5342,
+        "std": 0.4344,
+        "ci_low": 0.4956,
+        "ci_high": 0.5735,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.384,
+        "std": 0.4864,
+        "ci_low": 0.342,
+        "ci_high": 0.428,
+        "n": 500
+      },
+      "sf_f1": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "sf_em": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_low": 0.0,
+        "ci_high": 0.0,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 1.6188
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 1.6188
+      },
+      "throughput_p95_latency_s": {
+        "mean": 1.6188
+      },
+      "throughput_throughput_sps": {
+        "mean": 0.62
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "antahkarana": {
+      "joint_em": {
+        "mean": 0.02,
+        "std": 0.14,
+        "ci_low": 0.008,
+        "ci_high": 0.034,
+        "n": 500
+      },
+      "latency": {
+        "mean": 0.6221,
+        "std": 0.0,
+        "ci_low": 0.6221,
+        "ci_high": 0.6221,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.8994,
+        "std": 0.0338,
+        "ci_low": 0.8962,
+        "ci_high": 0.9016,
+        "n": 500
+      },
+      "joint_f1": {
+        "mean": 0.2904,
+        "std": 0.2858,
+        "ci_low": 0.2659,
+        "ci_high": 0.3174,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.6023,
+        "std": 0.4174,
+        "ci_low": 0.5656,
+        "ci_high": 0.6387,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.424,
+        "std": 0.4942,
+        "ci_low": 0.384,
+        "ci_high": 0.47,
+        "n": 500
+      },
+      "sf_f1": {
+        "mean": 0.3806,
+        "std": 0.3035,
+        "ci_low": 0.3554,
+        "ci_high": 0.4078,
+        "n": 500
+      },
+      "sf_em": {
+        "mean": 0.044,
+        "std": 0.2051,
+        "ci_low": 0.028,
+        "ci_high": 0.064,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.6221
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.6221
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.6221
+      },
+      "throughput_throughput_sps": {
+        "mean": 1.61
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    }
+  },
+  "mmlu": {
+    "direct": {
+      "latency": {
+        "mean": 0.06,
+        "std": 0.0,
+        "ci_low": 0.06,
+        "ci_high": 0.06,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.58,
+        "std": 0.4936,
+        "ci_low": 0.538,
+        "ci_high": 0.622,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.58,
+        "std": 0.4936,
+        "ci_low": 0.538,
+        "ci_high": 0.622,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.06
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.06
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.06
+      },
+      "throughput_throughput_sps": {
+        "mean": 16.68
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "cot": {
+      "latency": {
+        "mean": 0.635,
+        "std": 0.0,
+        "ci_low": 0.635,
+        "ci_high": 0.635,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.62,
+        "std": 0.4854,
+        "ci_low": 0.578,
+        "ci_high": 0.6581,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.62,
+        "std": 0.4854,
+        "ci_low": 0.578,
+        "ci_high": 0.6581,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.635
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.635
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.635
+      },
+      "throughput_throughput_sps": {
+        "mean": 1.57
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "self_consistency": {
+      "latency": {
+        "mean": 2.2766,
+        "std": 0.0,
+        "ci_low": 2.2766,
+        "ci_high": 2.2766,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.668,
+        "std": 0.4709,
+        "ci_low": 0.628,
+        "ci_high": 0.71,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.668,
+        "std": 0.4709,
+        "ci_low": 0.628,
+        "ci_high": 0.71,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 2.2766
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 2.2766
+      },
+      "throughput_p95_latency_s": {
+        "mean": 2.2766
+      },
+      "throughput_throughput_sps": {
+        "mean": 0.44
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "tot": {
+      "latency": {
+        "mean": 0.7743,
+        "std": 0.0,
+        "ci_low": 0.7743,
+        "ci_high": 0.7743,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.556,
+        "std": 0.4969,
+        "ci_low": 0.514,
+        "ci_high": 0.598,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.556,
+        "std": 0.4969,
+        "ci_low": 0.514,
+        "ci_high": 0.598,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.7743
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.7743
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.7743
+      },
+      "throughput_throughput_sps": {
+        "mean": 1.29
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "antahkarana": {
+      "latency": {
+        "mean": 0.4631,
+        "std": 0.0,
+        "ci_low": 0.4631,
+        "ci_high": 0.4631,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.9,
+        "std": 0.0,
+        "ci_low": 0.9,
+        "ci_high": 0.9,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.488,
+        "std": 0.4999,
+        "ci_low": 0.446,
+        "ci_high": 0.532,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.488,
+        "std": 0.4999,
+        "ci_low": 0.446,
+        "ci_high": 0.532,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.4631
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.4631
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.4631
+      },
+      "throughput_throughput_sps": {
+        "mean": 2.16
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    }
+  },
+  "truthfulqa": {
+    "direct": {
+      "latency": {
+        "mean": 0.0743,
+        "std": 0.0,
+        "ci_low": 0.0743,
+        "ci_high": 0.0743,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.1485,
+        "std": 0.1942,
+        "ci_low": 0.1322,
+        "ci_high": 0.1665,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.012,
+        "std": 0.1089,
+        "ci_low": 0.004,
+        "ci_high": 0.022,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.0743
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.0743
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.0743
+      },
+      "throughput_throughput_sps": {
+        "mean": 13.46
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "cot": {
+      "latency": {
+        "mean": 0.5243,
+        "std": 0.0,
+        "ci_low": 0.5243,
+        "ci_high": 0.5243,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.1691,
+        "std": 0.218,
+        "ci_low": 0.1512,
+        "ci_high": 0.1879,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.022,
+        "std": 0.1467,
+        "ci_low": 0.01,
+        "ci_high": 0.034,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.5243
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.5243
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.5243
+      },
+      "throughput_throughput_sps": {
+        "mean": 1.91
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "self_consistency": {
+      "latency": {
+        "mean": 1.9079,
+        "std": 0.0,
+        "ci_low": 1.9079,
+        "ci_high": 1.9079,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.163,
+        "std": 0.2174,
+        "ci_low": 0.145,
+        "ci_high": 0.1826,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.02,
+        "std": 0.14,
+        "ci_low": 0.01,
+        "ci_high": 0.032,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 1.9079
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 1.9079
+      },
+      "throughput_p95_latency_s": {
+        "mean": 1.9079
+      },
+      "throughput_throughput_sps": {
+        "mean": 0.52
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "tot": {
+      "latency": {
+        "mean": 0.6069,
+        "std": 0.0,
+        "ci_low": 0.6069,
+        "ci_high": 0.6069,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.2467,
+        "std": 0.2543,
+        "ci_low": 0.2258,
+        "ci_high": 0.2683,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.024,
+        "std": 0.153,
+        "ci_low": 0.01,
+        "ci_high": 0.038,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.6069
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.6069
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.6069
+      },
+      "throughput_throughput_sps": {
+        "mean": 1.65
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "antahkarana": {
+      "latency": {
+        "mean": 0.5464,
+        "std": 0.0,
+        "ci_low": 0.5464,
+        "ci_high": 0.5464,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.9,
+        "std": 0.0,
+        "ci_low": 0.9,
+        "ci_high": 0.9,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.2099,
+        "std": 0.2391,
+        "ci_low": 0.1899,
+        "ci_high": 0.2301,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.028,
+        "std": 0.165,
+        "ci_low": 0.014,
+        "ci_high": 0.042,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.5464
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.5464
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.5464
+      },
+      "throughput_throughput_sps": {
+        "mean": 1.83
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    }
+  },
+  "fever": {
+    "direct": {
+      "latency": {
+        "mean": 0.0363,
+        "std": 0.0,
+        "ci_low": 0.0363,
+        "ci_high": 0.0363,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.242,
+        "std": 0.4283,
+        "ci_low": 0.208,
+        "ci_high": 0.28,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.242,
+        "std": 0.4283,
+        "ci_low": 0.208,
+        "ci_high": 0.28,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.0363
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.0363
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.0363
+      },
+      "throughput_throughput_sps": {
+        "mean": 27.52
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "cot": {
+      "latency": {
+        "mean": 0.3056,
+        "std": 0.0,
+        "ci_low": 0.3056,
+        "ci_high": 0.3056,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.158,
+        "std": 0.3647,
+        "ci_low": 0.126,
+        "ci_high": 0.188,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.158,
+        "std": 0.3647,
+        "ci_low": 0.126,
+        "ci_high": 0.188,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.3056
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.3056
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.3056
+      },
+      "throughput_throughput_sps": {
+        "mean": 3.27
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "self_consistency": {
+      "latency": {
+        "mean": 1.3619,
+        "std": 0.0,
+        "ci_low": 1.3619,
+        "ci_high": 1.3619,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.134,
+        "std": 0.3407,
+        "ci_low": 0.106,
+        "ci_high": 0.166,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.134,
+        "std": 0.3407,
+        "ci_low": 0.106,
+        "ci_high": 0.166,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 1.3619
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 1.3619
+      },
+      "throughput_p95_latency_s": {
+        "mean": 1.3619
+      },
+      "throughput_throughput_sps": {
+        "mean": 0.73
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "tot": {
+      "latency": {
+        "mean": 0.462,
+        "std": 0.0,
+        "ci_low": 0.462,
+        "ci_high": 0.462,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.156,
+        "std": 0.3629,
+        "ci_low": 0.128,
+        "ci_high": 0.188,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.156,
+        "std": 0.3629,
+        "ci_low": 0.128,
+        "ci_high": 0.188,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.462
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.462
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.462
+      },
+      "throughput_throughput_sps": {
+        "mean": 2.16
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "antahkarana": {
+      "latency": {
+        "mean": 0.3754,
+        "std": 0.0,
+        "ci_low": 0.3754,
+        "ci_high": 0.3754,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.8574,
+        "std": 0.0676,
+        "ci_low": 0.8514,
+        "ci_high": 0.8631,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.406,
+        "std": 0.4911,
+        "ci_low": 0.368,
+        "ci_high": 0.45,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.406,
+        "std": 0.4911,
+        "ci_low": 0.368,
+        "ci_high": 0.45,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.3754
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.3754
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.3754
+      },
+      "throughput_throughput_sps": {
+        "mean": 2.66
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    }
+  },
+  "svamp": {
+    "direct": {
+      "latency": {
+        "mean": 0.0699,
+        "std": 0.0,
+        "ci_low": 0.0699,
+        "ci_high": 0.0699,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.61,
+        "std": 0.4877,
+        "ci_low": 0.57,
+        "ci_high": 0.652,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.61,
+        "std": 0.4877,
+        "ci_low": 0.57,
+        "ci_high": 0.652,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.0699
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.0699
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.0699
+      },
+      "throughput_throughput_sps": {
+        "mean": 14.31
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "cot": {
+      "latency": {
+        "mean": 0.438,
+        "std": 0.0,
+        "ci_low": 0.438,
+        "ci_high": 0.438,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.856,
+        "std": 0.3511,
+        "ci_low": 0.826,
+        "ci_high": 0.884,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.856,
+        "std": 0.3511,
+        "ci_low": 0.826,
+        "ci_high": 0.884,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.438
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.438
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.438
+      },
+      "throughput_throughput_sps": {
+        "mean": 2.28
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "self_consistency": {
+      "latency": {
+        "mean": 1.4761,
+        "std": 0.0,
+        "ci_low": 1.4761,
+        "ci_high": 1.4761,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.9,
+        "std": 0.3,
+        "ci_low": 0.872,
+        "ci_high": 0.926,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.9,
+        "std": 0.3,
+        "ci_low": 0.872,
+        "ci_high": 0.926,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 1.4761
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 1.4761
+      },
+      "throughput_p95_latency_s": {
+        "mean": 1.4761
+      },
+      "throughput_throughput_sps": {
+        "mean": 0.68
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "tot": {
+      "latency": {
+        "mean": 0.7151,
+        "std": 0.0,
+        "ci_low": 0.7151,
+        "ci_high": 0.7151,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.5,
+        "std": 0.0,
+        "ci_low": 0.5,
+        "ci_high": 0.5,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.82,
+        "std": 0.3842,
+        "ci_low": 0.786,
+        "ci_high": 0.852,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.82,
+        "std": 0.3842,
+        "ci_low": 0.786,
+        "ci_high": 0.852,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.7151
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.7151
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.7151
+      },
+      "throughput_throughput_sps": {
+        "mean": 1.4
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    },
+    "antahkarana": {
+      "latency": {
+        "mean": 0.4418,
+        "std": 0.0,
+        "ci_low": 0.4418,
+        "ci_high": 0.4418,
+        "n": 500
+      },
+      "confidence": {
+        "mean": 0.9,
+        "std": 0.0,
+        "ci_low": 0.9,
+        "ci_high": 0.9,
+        "n": 500
+      },
+      "f1": {
+        "mean": 0.864,
+        "std": 0.3428,
+        "ci_low": 0.834,
+        "ci_high": 0.892,
+        "n": 500
+      },
+      "em": {
+        "mean": 0.864,
+        "std": 0.3428,
+        "ci_low": 0.834,
+        "ci_high": 0.892,
+        "n": 500
+      },
+      "throughput_mean_latency_s": {
+        "mean": 0.4418
+      },
+      "throughput_std_latency_s": {
+        "mean": 0.0
+      },
+      "throughput_p50_latency_s": {
+        "mean": 0.4418
+      },
+      "throughput_p95_latency_s": {
+        "mean": 0.4418
+      },
+      "throughput_throughput_sps": {
+        "mean": 2.26
+      },
+      "throughput_n_samples": {
+        "mean": 500
+      }
+    }
+  }
+}
